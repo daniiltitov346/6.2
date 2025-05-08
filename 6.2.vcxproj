@@ -127,7 +127,22 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\6.1б\6.1б\car.cpp" />
+    <ClCompile Include="..\..\6.1б\6.1б\cyclist.cpp" />
+    <ClCompile Include="..\..\6.1б\6.1б\detected_object.cpp" />
+    <ClCompile Include="..\..\6.1б\6.1б\motorcycle.cpp" />
+    <ClCompile Include="..\..\6.1б\6.1б\person.cpp" />
+    <ClCompile Include="..\..\6.1б\6.1б\unattended_bag.cpp" />
+    <ClCompile Include="..\..\6.1б\6.1б\vehicle.cpp" />
     <ClCompile Include="6.2.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\6.1б\6.1б\car.h" />
+    <ClInclude Include="..\..\6.1б\6.1б\cyclist.h" />
+    <ClInclude Include="..\..\6.1б\6.1б\detected_object.h" />
+    <ClInclude Include="..\..\6.1б\6.1б\motorcycle.h" />
+    <ClInclude Include="..\..\6.1б\6.1б\person.h" />
+    <ClInclude Include="..\..\6.1б\6.1б\unattended_bag.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
