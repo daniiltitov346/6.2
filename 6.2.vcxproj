@@ -135,6 +135,7 @@
     <ClCompile Include="..\..\6.1б\6.1б\unattended_bag.cpp" />
     <ClCompile Include="..\..\6.1б\6.1б\vehicle.cpp" />
     <ClCompile Include="6.2.cpp" />
+    <ClCompile Include="SurveillanceArray.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\6.1б\6.1б\car.h" />
@@ -143,6 +144,7 @@
     <ClInclude Include="..\..\6.1б\6.1б\motorcycle.h" />
     <ClInclude Include="..\..\6.1б\6.1б\person.h" />
     <ClInclude Include="..\..\6.1б\6.1б\unattended_bag.h" />
+    <ClInclude Include="SurveillanceArray.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
